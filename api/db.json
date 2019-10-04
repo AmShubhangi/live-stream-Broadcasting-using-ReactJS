@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "Dibba",
+      "description": "Dibba",
+      "id": 1
+    },
+    {
+      "title": "Doba",
+      "description": "Doba",
+      "id": 2
+    }
+  ]
+}
